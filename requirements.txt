@@ -1,10 +1,15 @@
+aiohttp==3.7.4.post0
 arrow==1.2.3
+df2gspread==1.0.4
+Flask==2.1.2
 gspread==3.6.0
 gspread_dataframe==3.3.0
 oauth2client==4.1.3
 pandas==1.1.0
+pysnooapi==0.0.3
 python-dotenv==1.0.0
 python_json_logger==2.0.7
+pytz==2020.1
 pyxdg==0.28
 requests==2.22.0
 sendgrid==6.9.7
